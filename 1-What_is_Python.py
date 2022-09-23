@@ -6,3 +6,18 @@
 # Cross-Platform
 # Huge Community
 # Large Ecosystem
+
+What is programming Languages? ")
+print
+print("they are series of symbols that serves as bridge that allows human to translate tgheir thoughts into the language the computer understands")
+# programming languages are divided into two:
+# Low level(close to the machine code and not easy to read by humans but faster to operate
+# High Level(Close to human daily languages)
+# Tpes of programming languages?
+# Python, Java, Java script, C#(microsoft), C++ and so on
+# Syntax; the well-formed structure of statements in a computer language.
+# Python basics?
+patient_name = John Smith
+Age = 20
+Status = New patient
+print = (patient_name)
